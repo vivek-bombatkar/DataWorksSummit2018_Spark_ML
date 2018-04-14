@@ -16,6 +16,8 @@ https://spark.apache.org/docs/latest/ml-pipeline.html
  - https://github.com/apache/spark/tree/master/examples/src/main/python/ml
  
  - https://spark.apache.org/docs/2.0.2/mllib-linear-methods.html#mjx-eqn-eqregPrimal
+ 
+ - https://spark.apache.org/docs/2.0.2/ml-classification-regression.html
 
 
 
