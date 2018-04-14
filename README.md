@@ -12,6 +12,8 @@ I used Databricks Community Edition's free version of our cloud-based big data p
 https://spark.apache.org/docs/latest/ml-pipeline.html
 
  - https://spark.apache.org/docs/latest/mllib-data-types.html#local-vector
+ 
+ - https://github.com/apache/spark/tree/master/examples/src/main/python/ml
 
 
 
