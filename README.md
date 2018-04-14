@@ -5,6 +5,7 @@ Attained the workshop on workshop that provide a hands on introduction to basic 
 
 This repository contains the hands on notes on machine learning examples with Spark ML.
 
+I used Databricks Community Edition's free version of our cloud-based big data platform, https://community.cloud.databricks.com/login.html?
 
 ### Collection of Spark ML exercises 
 
