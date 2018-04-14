@@ -14,6 +14,8 @@ https://spark.apache.org/docs/latest/ml-pipeline.html
  - https://spark.apache.org/docs/latest/mllib-data-types.html#local-vector
  
  - https://github.com/apache/spark/tree/master/examples/src/main/python/ml
+ 
+ - https://spark.apache.org/docs/2.0.2/mllib-linear-methods.html#mjx-eqn-eqregPrimal
 
 
 
