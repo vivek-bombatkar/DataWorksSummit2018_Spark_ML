@@ -17,8 +17,6 @@ https://spark.apache.org/docs/latest/ml-pipeline.html
 
 
 
-https://hortonworks.com/blog/introduction-to-data-science-with-apache-spark/
-
 https://hortonworks.com/tutorial/intro-to-machine-learning-with-apache-spark-and-apache-zeppelin/
 
 https://community.hortonworks.com/articles/176789/apache-deep-learning-101-using-apache-mxnet-in-apa.html
