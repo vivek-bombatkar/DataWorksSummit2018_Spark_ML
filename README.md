@@ -1,11 +1,23 @@
 # DataWorks Summit 2018
 ## Machine-Learning-techniques-with-Apache-Spark
 
-Attained the workshop on workshop that provide a hands on introduction to basic Machine Learning techniques with Apache Spark ML using the cloud. 
+This workshop was providing a hands on introduction to basic Machine Learning techniques with Apache Spark ML using the cloud. 
 
 This repository contains the hands on notes on machine learning examples with Spark ML.
 
 I used Databricks Community Edition's free version of our cloud-based big data platform, https://community.cloud.databricks.com/login.html?
+
+
+## spark.ml VS spark.mllib
+
+- spark.mllib contains the original API built on top of RDDs. 
+
+- spark.ml provides higher-level API built on top of DataFrames for constructing ML pipelines.
+
+is the new implementation + Pipelines + Dataframes + Easier to construct a practical machine learning pipeline
+ 
+
+<br>
 
 ### Collection of Spark ML exercises 
 
