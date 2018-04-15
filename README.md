@@ -17,7 +17,7 @@ I used Databricks Community Edition's free version of our cloud-based big data p
 
 - spark.ml provides higher-level API built on top of DataFrames for constructing ML pipelines.
 
-is the new implementation + Pipelines + Dataframes + Easier to construct a practical machine learning pipeline
+ML is the new implementation + Pipelines + Dataframes + Easier to construct a practical machine learning pipeline
  
 
 <br>
@@ -35,6 +35,8 @@ https://spark.apache.org/docs/latest/ml-pipeline.html
  - https://spark.apache.org/docs/2.0.2/ml-classification-regression.html
  
  - https://spark.apache.org/docs/latest/mllib-linear-methods.html
+ 
+ - https://spark.apache.org/docs/latest/ml-features.html
 
 
 
