@@ -24,7 +24,7 @@ ML is the new implementation + Pipelines + Dataframes + Easier to construct a pr
 
 ## ML Pipelines 
 
-### LogisticRegression_HashingTF_Tokenizer_text_parsing_pipeline
+- LogisticRegression_HashingTF_Tokenizer_text_parsing_pipeline
 <img src="./pics/LogisticRegression_HashingTF_Tokenizer_text_parsing_pipeline.jpg"  />
 
 
