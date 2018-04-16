@@ -22,7 +22,15 @@ ML is the new implementation + Pipelines + Dataframes + Easier to construct a pr
 
 <br>
 
-### Collection of Spark ML exercises 
+## ML Pipelines 
+
+- LogisticRegression_HashingTF_Tokenizer_text_parsing_pipeline
+<img src="./pics/LogisticRegression_HashingTF_Tokenizer_text_parsing_pipeline.jpg"  />
+
+
+
+
+## Collection of my Spark ML exercises resources
 
 https://spark.apache.org/docs/latest/ml-pipeline.html
 
