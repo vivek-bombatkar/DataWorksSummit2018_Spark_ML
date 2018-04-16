@@ -29,7 +29,8 @@ ML is the new implementation + Pipelines + Dataframes + Easier to construct a pr
 
 
 
-### Collection of Spark ML exercises 
+
+## Collection of my Spark ML exercises resources
 
 https://spark.apache.org/docs/latest/ml-pipeline.html
 
