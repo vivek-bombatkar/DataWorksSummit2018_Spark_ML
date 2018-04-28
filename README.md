@@ -55,6 +55,8 @@ ML is the new implementation + Pipelines + Dataframes + Easier to construct a pr
 
 - https://spark.apache.org/docs/latest/ml-pipeline.html
 
+- https://spark.apache.org/docs/2.2.0/mllib-linear-methods.html#logistic-regression
+
  - https://spark.apache.org/docs/latest/mllib-data-types.html#local-vector
  
  - https://github.com/apache/spark/tree/master/examples/src/main/python/ml
